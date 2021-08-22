@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/errors/static/css/main.516420e9.chunk.css",
-    "main.js": "/errors/static/js/main.894af626.chunk.js",
-    "main.js.map": "/errors/static/js/main.894af626.chunk.js.map",
+    "main.js": "/errors/static/js/main.8f3f746c.chunk.js",
+    "main.js.map": "/errors/static/js/main.8f3f746c.chunk.js.map",
     "runtime-main.js": "/errors/static/js/runtime-main.ac723438.js",
     "runtime-main.js.map": "/errors/static/js/runtime-main.ac723438.js.map",
-    "static/js/2.1391703e.chunk.js": "/errors/static/js/2.1391703e.chunk.js",
-    "static/js/2.1391703e.chunk.js.map": "/errors/static/js/2.1391703e.chunk.js.map",
+    "static/js/2.308e752a.chunk.js": "/errors/static/js/2.308e752a.chunk.js",
+    "static/js/2.308e752a.chunk.js.map": "/errors/static/js/2.308e752a.chunk.js.map",
     "static/js/3.cf14f891.chunk.js": "/errors/static/js/3.cf14f891.chunk.js",
     "static/js/3.cf14f891.chunk.js.map": "/errors/static/js/3.cf14f891.chunk.js.map",
     "index.html": "/errors/index.html",
     "static/css/main.516420e9.chunk.css.map": "/errors/static/css/main.516420e9.chunk.css.map",
-    "static/js/2.1391703e.chunk.js.LICENSE.txt": "/errors/static/js/2.1391703e.chunk.js.LICENSE.txt",
+    "static/js/2.308e752a.chunk.js.LICENSE.txt": "/errors/static/js/2.308e752a.chunk.js.LICENSE.txt",
     "static/media/Sidebar.css": "/errors/static/media/Futura Condensed Extra Bold.74aa3b0f.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.ac723438.js",
-    "static/js/2.1391703e.chunk.js",
+    "static/js/2.308e752a.chunk.js",
     "static/css/main.516420e9.chunk.css",
-    "static/js/main.894af626.chunk.js"
+    "static/js/main.8f3f746c.chunk.js"
   ]
 }
